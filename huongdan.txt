@@ -1,0 +1,11 @@
+py -3.11 -m venv venv_tf_prj
+
+.\venv_tf_prj\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+chạy data_processing
+
+chạy train_model
+
+chạy 
